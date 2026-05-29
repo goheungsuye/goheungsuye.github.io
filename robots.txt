@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://goheungsuye.netlify.app/sitemap.xml
